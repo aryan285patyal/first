@@ -1,0 +1,37 @@
+h1 {
+  color: orange;
+  margin-top: 100px;
+}
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  gap: 10px;
+  background-color: palegreen;
+}
+
+.menu {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+body {
+  background-color: palegreen;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: flex;
+  gap: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */
